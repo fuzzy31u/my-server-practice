@@ -1,7 +1,7 @@
-my-tcp-server
+my-server-practice
 =============
 
-This is my practice for creating TCP Server.
+This is my practice for creating TCP and Web Server.
 
 Requirements
 ------------
@@ -10,3 +10,4 @@ Requirements
 Refers to
 ----------
 >http://kmaebashi.com/programmer/webserver/tcpserver.html
+>http://kmaebashi.com/programmer/webserver/webserver.html
