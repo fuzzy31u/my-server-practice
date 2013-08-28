@@ -1,0 +1,8 @@
+GET /index.html HTTP/1.1
+Host: localhost:80
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: ja,en-US;q=0.8,en;q=0.6
+Cookie: JSESSIONID=fdf6a3902ee3b9bfea13a0f5cd6e; treeForm_tree-hi=treeForm:tree:nodes

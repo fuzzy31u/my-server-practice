@@ -6,7 +6,7 @@ import java.io.OutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Server {
+public class Server01 {
 
 	public static void main(String[] args) {
 		try (ServerSocket server = new ServerSocket(8001);
