@@ -1,7 +1,12 @@
 my-tcp-server
 =============
 
-This is the test project for creating TCP Server.
+This is my practice for creating TCP Server.
 
-refers to 
+Requirements
+------------
+* Java 1.7 or later
+
+Refers to
+----------
 >http://kmaebashi.com/programmer/webserver/tcpserver.html
